@@ -1,0 +1,22 @@
+.MiOrg-Section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.MiOrg-Section h2 {
+    color: #6278F7;
+    font-family: 'Prata', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom: 19px;
+    border-bottom: 4px solid #6278F7;
+}
+
+.MiOrg-Section img {
+    position: absolute;
+    right: 20%;
+    cursor: pointer;
+}

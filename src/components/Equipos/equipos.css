@@ -1,0 +1,33 @@
+.Equipos {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 30px;
+    text-align: center;
+    position: relative;
+}
+
+.input-color {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.Equipos h3 {
+    color: #212121;
+    font-size: 32px;
+    font-weight: 400;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.colaboradores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
